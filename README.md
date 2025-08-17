@@ -10,5 +10,8 @@
 
 Para ejecutar el sistema, debes poner:  
 
-```npm install react```
+```npm install react```  
 
+----------  
+
+Puedo acceder a una IDE virtual pulsando ```.``` en la página de github
