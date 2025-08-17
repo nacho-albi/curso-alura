@@ -1,5 +1,5 @@
 <h1>Readme</h1>  
-
+<h2>Curso de Git-GitHub en ALURA LATAM</h2>
 -Se utiliza md --> Markdown que es como html  
 
 -Para qué se usa  
